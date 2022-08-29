@@ -150,4 +150,12 @@ a{
  background-color: #e04122 !important;
 
 }
+.almP p{
+    width: 100%;
+    text-align: right;
+    font-weight: bold;
+    direction: rtl;
+}
+
+
 
